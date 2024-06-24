@@ -3,7 +3,7 @@
 <!--Img-->
 
 <div align="center">
-  <img height="450" width="765" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
+  <img height="300" width="665" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 </div>
 
 
