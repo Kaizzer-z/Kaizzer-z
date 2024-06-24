@@ -3,10 +3,10 @@
 <!--Img-->
 
 
+
+<div align="right">
 ### ☄️ Mizzu
 ---
-
-<div align="r">
   <img height="350" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
 </div>
 
