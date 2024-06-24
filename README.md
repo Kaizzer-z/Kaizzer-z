@@ -1,13 +1,11 @@
-<div align="center">
-<!--Img-->
+<!-- Heading -->
 
+<div align="center">
+<!-- Img -->
   <img align="center" height="400" width="700" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 
-
-
-  
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Mizzu ジ</h3>
-
+---
 
 <br>
 <div align="left">
