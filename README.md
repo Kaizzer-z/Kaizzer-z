@@ -17,7 +17,7 @@
   Other Technology
 </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,django,flask)](https://skillicons.dev)
 <details>
   <summary>🎵 Spotify</summary>
   
