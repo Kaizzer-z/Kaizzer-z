@@ -1,20 +1,15 @@
 ### ☄️ Mizzu
 ---
 ###
-<div align="">
-<!--Img-->
 <div align="center">
-  <img align="right" height="350" width="600" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
-</div>
+<!--Img-->
+
+  <img align="center" height="350" width="600" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 
 <!--Icons-->
-<h3>Tech stack 💻</h3>
+<h4>Frontend Developer 💻</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python)](https://skillicons.dev)
-</div>
-
-
-<div> 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js)](https://skillicons.dev)
 <details>
   <summary>🎵 Spotify</summary>
   
