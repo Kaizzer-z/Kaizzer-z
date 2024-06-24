@@ -32,11 +32,14 @@
 </details>
 </div>
 <div align="right">
-  <br clear="both">
-  
+
+
+</div>
+</div>
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Mizzu/Mizzu/output/snake.svg" alt="Snake animation" />
 
-</div>
-</div>
-
+###
 
