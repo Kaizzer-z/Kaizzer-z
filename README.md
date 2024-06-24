@@ -4,7 +4,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
+  <img style="border-radius: 10px;" height="350" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
 </div>
 
 ###
