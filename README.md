@@ -1,9 +1,12 @@
 <div align="center">
   
 <!--Img-->
-<br clear="both">
 
-<div style="border-radius: 50px;" align="center">
+
+### ☄️ Mizzu
+---
+
+<div align="r">
   <img height="350" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
 </div>
 
