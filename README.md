@@ -1,7 +1,7 @@
 ### ☄️ Mizzu
 ---
 ###
-<div align="center">
+<div align="">
 <!--Img-->
 <div align="center">
   <img align="right" height="350" width="600" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
