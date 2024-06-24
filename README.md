@@ -14,10 +14,11 @@
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python)](https://skillicons.dev)
 
+
+</div>
 ###
 ---
 ###
-</div>
 <div align="center">
   
 <details>
