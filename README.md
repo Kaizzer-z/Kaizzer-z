@@ -4,7 +4,7 @@
 <div align="center">
 <!--Img-->
 
-  <img align="center" height="350" width="600" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
+  <img align="center" height="400" width="700" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 
 <!--Icons-->
 <h4>Frontend Developer 💻</h4>
