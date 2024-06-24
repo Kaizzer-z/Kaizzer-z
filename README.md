@@ -6,9 +6,7 @@
 
 
   
-### ☄️ Mizzu
----
-###
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Mizzu ジ</h3>
 
 
 <br>
@@ -22,11 +20,11 @@
 <h4>Frontend Developer ⤵</h4>
 <!--Icons-->
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
 
 <h4>Other Technology ⤵</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,django,flask)](https://skillicons.dev)
 <details>
   <summary>🎵 Spotify</summary>
   
