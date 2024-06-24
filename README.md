@@ -3,8 +3,8 @@
 <!--Img-->
 <br clear="both">
 
-<div align="center">
-  <img style="border-radius: 50px;" height="350" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
+<div style="border-radius: 50px;" align="center">
+  <img height="350" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
 </div>
 
 ###
