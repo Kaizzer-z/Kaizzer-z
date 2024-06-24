@@ -8,7 +8,10 @@
 
 ---
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=1648FF&random=false&width=435&lines=Passionate+about+growth...;Transforming+ideas+into+reality...;Code%2C+coffee%2C+and+passion...)](https://git.io/typing-svg)
+</div>
 
 ---
 
