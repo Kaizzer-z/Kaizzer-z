@@ -5,10 +5,7 @@
   <img align="center" height="400px" width="700px" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 
 <h3 align="center"><img src = "https://media.tenor.com/MY0AEYOEgiUAAAAi/sufunmaxanime.gif" height="35px" width = 35px> Hi there! I'm Mizzu ジ</h3>
-
 ---
-
-<br>
 <div align="left">
  <h3>Technologies & Tools 💻</h4>
   
