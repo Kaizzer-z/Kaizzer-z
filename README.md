@@ -14,7 +14,8 @@
 <br>
 <div align="left">
  <h3>Technologies & Tools 💻</h4>
- <p>Programming Languages ⤵</p>
+  
+ <h4>Programming Languages ⤵</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=python,js,dart)](https://skillicons.dev)
   
