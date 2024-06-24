@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,django,flask)](https://skillicons.dev)
 
-<details>
+<details align="center">
   <summary>🎵 Spotify</summary>
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5ldnl22dk6cziqtedriwbgera)
