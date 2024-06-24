@@ -12,6 +12,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-<!--End Icons-->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5ldnl22dk6cziqtedriwbgera)
 
