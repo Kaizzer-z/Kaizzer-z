@@ -11,13 +11,13 @@
 <div align="left">
  <h3>Technologies & Tools 💻</h4>
   
- <h4>Programming Languages ⤵</h4>
+ <h4>Programming Languages ⤸</h4>
  
 [![My Skills](https://skillicons.dev/icons?i=python,js,dart)](https://skillicons.dev) 
-<h4>Frontend Developer ⤵</h4>
+<h4>Frontend Developer ⤸</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)
-<h4>Other Technology ⤵</h4>
+<h4>Other Technology ⤸</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,django,flask)](https://skillicons.dev)
 
