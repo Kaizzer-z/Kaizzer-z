@@ -3,7 +3,7 @@
 <!--Img-->
 
 <div align="center">
-  <img height="350" width="800" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
+  <img height="400" width="800" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
 </div>
 
 
