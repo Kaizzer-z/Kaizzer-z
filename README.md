@@ -1,15 +1,17 @@
-### ☄️ Mizzu
----
-###
 <div align="center">
 <!--Img-->
 
   <img align="center" height="400" width="700" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 
-<!--Icons-->
+
+### ☄️ Mizzu
+---
+###
+
 <br>
 <div align="left">
 <h4>Frontend Developer 💻</h4>
+<!--Icons-->
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js)](https://skillicons.dev)
 
