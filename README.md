@@ -2,13 +2,13 @@
   
 <!--Img-->
 
+<div align="center">
+  <img height="350" width="500" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
+</div>
 
 
-<div align="right">
 ### ☄️ Mizzu
 ---
-  <img height="350" src="https://media1.tenor.com/m/C15tjfXOQXsAAAAC/anime-kimi-no-na-wa.gif"  />
-</div>
 
 ###
 <!--Icons-->
