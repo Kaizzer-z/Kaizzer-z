@@ -12,6 +12,12 @@
 <h4>Frontend Developer 💻</h4>
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js)](https://skillicons.dev)
+
+<h4>
+  Other Technology
+</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,django,flask)](https://skillicons.dev)
 <details>
   <summary>🎵 Spotify</summary>
   
