@@ -12,15 +12,18 @@
 
 
 <br>
-<div align="center">
-<h4>Frontend Developer 💻</h4>
+<div align="left">
+ <h3>Technologies & Tools 💻</h4>
+ <p>Programming Languages ⤵</p>
+  
+[![My Skills](https://skillicons.dev/icons?i=python,js,dart)](https://skillicons.dev)
+  
+<h4>Frontend Developer ⤵</h4>
 <!--Icons-->
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js)](https://skillicons.dev)
 
-<h4>
-  Other Technology
-</h4>
+<h4>Other Technology ⤵</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,python,django,flask)](https://skillicons.dev)
 <details>
