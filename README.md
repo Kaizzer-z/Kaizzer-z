@@ -33,10 +33,13 @@
 </div>
 <br clear="both">
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Mizzu8017/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mizzu.Mizzu&left_color=indigo&right_color=slategray"  />
 </div>
 
 ###
+
 </div>
 
