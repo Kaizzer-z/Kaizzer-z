@@ -9,8 +9,8 @@
 
 <!--Icons-->
 <h3>Technologies worked</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python)](https://skillicons.dev)
 </div>
 
 
