@@ -4,9 +4,13 @@
   <img align="center" height="400" width="700" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 
 
+<h3 align="left"> 
+  
 ### ☄️ Mizzu
 ---
 ###
+
+</h3>
 
 <br>
 <div align="left">
