@@ -4,7 +4,7 @@
 <!-- Img -->
   <img align="center" height="400px" width="700px" src="https://media.tenor.com/On7nVJgMM7YAAAAC/your-name-kimi-no-na-wa.giff"  />
 
-<h3 align="center"><img src = "https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" height="40px" width = 35px> Hi there! I'm Mizzu ジ</h3>
+<h3 align="center"><img src = "https://media.tenor.com/VOQM9bXxYdQAAAAi/anime.gif" height="35px" width = 30px> Hi there! I'm Mizzu ジ</h3>
 
 ---
 
