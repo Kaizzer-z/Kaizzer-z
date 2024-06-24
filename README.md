@@ -31,6 +31,12 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5ldnl22dk6cziqtedriwbgera)
 </details>
 </div>
+<div align="right">
+  <br clear="both">
+  
+<img src="https://raw.githubusercontent.com/Mizzu/Mizzu/output/snake.svg" alt="Snake animation" />
+
+</div>
 </div>
 
 
