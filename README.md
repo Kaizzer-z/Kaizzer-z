@@ -8,7 +8,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&color=A846DC&random=false&width=435&lines=+Transforming+ideas+into+reality...;Code%2C+coffee%2C+and+passion...;Passionate+about+growth...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=17&pause=400&color=A680F7&center=true&vCenter=true&random=false&width=435&lines=%E2%98%84%EF%B8%8F+Transforming+ideas+into+reality...;%E2%98%95+Code%2C+coffee+and+passion...;%F0%9F%8E%A7+Coding+to+the+rhythm+of+music...;%F0%9F%8E%B5+Where+notes+become+bits...;%F0%9F%8E%B6+And+melodies+become+algorithms...)](https://git.io/typing-svg)
 
 ---
 
