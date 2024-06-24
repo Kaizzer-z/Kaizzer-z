@@ -28,18 +28,16 @@
 <details>
   <summary>🎵 Spotify</summary>
   
-</details>
-  ---
-  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5ldnl22dk6cziqtedriwbgera)
+</details>
+  
 </div>
 
+  ---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mizzu.Mizzu&left_color=indigo&right_color=slategray"  />
 </div>
-
-###
 
 </div>
 
