@@ -36,7 +36,7 @@
   ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mizzu001.mizzu001&left_color=indigo&right_color=slategray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mizzu001&left_color=indigo&right_color=slategray"  />
 </div>
 
 </div>
