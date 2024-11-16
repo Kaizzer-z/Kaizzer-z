@@ -26,20 +26,17 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 
 💻 Technologies I Work With ⤸
 ---
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-</p>
+<div>
+  
+ [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,tailwind)](https://skillicons.dev)
+</div>
 
 🌱 Currently Learning ⤸
 ---
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
-</p>
+<div>
+
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,react,)](https://skillicons.dev)
+</div>
 
 ---
 
