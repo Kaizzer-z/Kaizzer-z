@@ -41,3 +41,28 @@
 
 </div>
 
+
+# Hi there! 👋 Welcome to my GitHub!
+
+I'm a **passionate developer** who loves crafting beautiful and functional web experiences. ✨ My journey in tech is fueled by curiosity, creativity, and the joy of solving problems through code. 🚀  
+
+## 💻 Technologies I Work With
+I specialize in creating clean, responsive, and user-friendly designs using the following technologies:  
+- **HTML** ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+- **CSS** ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+- **Bootstrap** ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+- **Tailwind CSS** ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+## 🌱 Always Learning
+I'm currently diving into the world of **React** to build dynamic and modern web applications:  
+- **React** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
+
+## 🌟 A Little About Me  
+- 💡 **Driven by curiosity**: I enjoy exploring new technologies and pushing the boundaries of what's possible.  
+- 🎯 **Detail-oriented**: My goal is to deliver code that not only works but also looks and feels amazing.  
+- 🛠️ **Problem-solver**: I thrive on tackling challenges and turning ideas into reality.  
+
+Feel free to explore my repositories and reach out—let’s build something amazing together! 🤝  
+
+
