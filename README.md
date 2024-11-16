@@ -4,6 +4,7 @@
   <img align="center" height="350px" width="800px" src="https://78.media.tumblr.com/4a4cd42f174892bbdeaa1d2158d085e3/tumblr_off5nbmTS71rz9hl6o3_500.gif"  />
 <h3 align="center"><img src = "https://media.tenor.com/MY0AEYOEgiUAAAAi/sufunmaxanime.gif" height="35px" width = 35px> Hi there! I'm Mizzu ジ</h3>
 </div>
+
 Hi there! 👋 Welcome to my GitHub!
 ---
 
