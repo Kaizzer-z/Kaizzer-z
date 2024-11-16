@@ -41,7 +41,7 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 ---
 <div align="center">
 <details align="center">
-  <summary>🎵 Music</summary>
+  <summary>🎵 **Music**</summary>
   
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t5ldnl22dk6cziqtedriwbgera)
 </details>
