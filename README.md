@@ -2,7 +2,7 @@
 
 <div align="center">
   <img align="center" height="350px" width="800px" src="https://tenor.com/view/gojo-satoru-hollow-purple-jujutsu-kaisen-gif-15676374185659758060"  />
-<h3 align="center"><img src = "https://media1.tenor.com/m/2Y2rQ85adewAAAAC/gojo-satoru-hollow-purple.gif" height="35px" width = 35px> Hi there! I'm Mizzu ジ</h3>
+<h3 align="center">Hi there! I'm Mizzu ジ</h3>
 </div>
 
 👋 Welcome to my GitHub!
