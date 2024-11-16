@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img align="center" height="350px" width="800px" src="https://i.imgur.com/n9DlGQw.gif" />
+  <img align="center" height="350px" width="800px" src="https://s6.ezgif.com/tmp/ezgif-6-e318811693.webp" />
 <h3 align="center">Hi there! I'm Mizzu ジ</h3>
 </div>
 
