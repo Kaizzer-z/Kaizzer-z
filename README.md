@@ -34,7 +34,7 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
 </p>
 
-🌱 Always Learning ⤸
+🌱 Currently Learning ⤸
 ---
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
