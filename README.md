@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://i.imgur.com/n9DlGQw.gif" style="border-radius: 50%;"  />
+  <img align="center" src="https://i.imgur.com/n9DlGQw.gif" style="border-radius: 50%;" alt="Satoru Gojo"  />
 <h3 align="center">Hi there! I'm Mizzu ジ</h3>
 </div>
 
