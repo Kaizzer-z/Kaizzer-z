@@ -20,9 +20,9 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 
 🌟 A Little About Me ⤸
 ---
-- 💡 **Driven by curiosity**: I enjoy exploring new technologies and pushing the boundaries of what's possible.  
+- ☄️ **Problem-solver**: I thrive on tackling challenges and turning ideas into reality.
 - 🎯 **Detail-oriented**: My goal is to deliver code that not only works but also looks and feels amazing.  
-- 🛠️ **Problem-solver**: I thrive on tackling challenges and turning ideas into reality.  
+- 💡 **Always evolving**: I'm passionate about continuous learning and staying up-to-date with the latest trends in tech to build better and smarter solutions. 
 
 💻 Technologies I Work With ⤸
 ---
