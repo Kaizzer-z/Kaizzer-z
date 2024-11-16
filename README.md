@@ -35,7 +35,7 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 ---
 <div>
 
- [![My Skills](https://skillicons.dev/icons?i=nodejs,react,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,react,express)](https://skillicons.dev)
 </div>
 
 ---
