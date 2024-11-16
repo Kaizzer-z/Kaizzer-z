@@ -6,7 +6,7 @@
 
 <h3 align="center"><img src = "https://media.tenor.com/MY0AEYOEgiUAAAAi/sufunmaxanime.gif" height="35px" width = 35px> Hi there! I'm Mizzu ジ</h3>
 
-
+</div>
 # Hi there! 👋 Welcome to my GitHub!
 
 ---
