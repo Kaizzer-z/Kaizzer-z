@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img align="center" height="350px" width="800px" src="https://78.media.tumblr.com/4a4cd42f174892bbdeaa1d2158d085e3/tumblr_off5nbmTS71rz9hl6o3_500.gif"  />
+  <img align="center" height="350px" width="800px" src="https://tenor.com/view/gojo-satoru-hollow-purple-jujutsu-kaisen-gif-15676374185659758060"  />
 <h3 align="center"><img src = "https://media1.tenor.com/m/2Y2rQ85adewAAAAC/gojo-satoru-hollow-purple.gif" height="35px" width = 35px> Hi there! I'm Mizzu ジ</h3>
 </div>
 
