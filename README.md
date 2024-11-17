@@ -1,5 +1,5 @@
 ---
-<table>
+<table align="center">
   <tr>
     <td align="left">
       <h3>Hi there! I'm Mizzu ジ</h3>
