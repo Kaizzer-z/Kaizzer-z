@@ -3,9 +3,6 @@
 <h3 align="center">Hi there! I'm Mizzu ジ</h3>
 
 
-👋 Welcome to my GitHub!
----
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=17&pause=400&color=8283FF&center=true&vCenter=true&random=false&width=435&lines=%E2%98%84%EF%B8%8F+Transforming+ideas+into+reality...;%E2%98%95+Code%2C+coffee+and+passion...;%F0%9F%8E%A7+Coding+to+the+rhythm+of+music...;%F0%9F%8E%B5+Where+notes+become+bits...;%F0%9F%8E%B6+And+melodies+become+algorithms...)](https://git.io/typing-svg)
@@ -13,6 +10,12 @@
 </div>
 
 ---
+
+👋 Welcome to my GitHub!
+---
+
+
+
 I'm a **passionate developer** who loves crafting beautiful and functional web experiences. ✨ My journey in tech is fueled by curiosity, creativity, and the joy of solving problems through code. 🚀  
 
 
