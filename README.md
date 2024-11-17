@@ -15,7 +15,7 @@
 ---
 
   <h3>
-👋 Welcome to my GitHub!
+<strong>👋 Welcome to my GitHub!</strong>
   </h3>
   
 I'm a **passionate developer** who loves crafting beautiful and functional web experiences. ✨ My journey in tech is fueled by curiosity, creativity, and the joy of solving problems through code. 🚀  
