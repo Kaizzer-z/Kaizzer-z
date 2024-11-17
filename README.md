@@ -3,7 +3,7 @@
 <div align="center">
   <h3>
   Hi there! I'm Mizzu ジ
-  <img src="https://media.tenor.com/Bve0fgKwVnYAAAAi/alverda-verdansa.gif" width="60px" height="50px" alt="Gif de saludo">
+  <img src="https://media.tenor.com/Bve0fgKwVnYAAAAi/alverda-verdansa.gif" alt="Gif de saludo" height="50px" width="55px">
   </h3>
 </div>
 
@@ -53,7 +53,7 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 </div>
 
 <div align="center">
-  <img align="center" alt="Satoru Gojo" src="https://media.discordapp.net/attachments/905259959158206514/1307714268594049074/wallhaven-x6dp1z_800x2001.png?ex=673b4f51&is=6739fdd1&hm=167626c7d0dd20b9c690cf19f7a380f0ec016de12a377b7850eb379af2d885e7&=&format=webp&quality=lossless&width=719&height=179"/>
+  <img align="center" src="https://media.discordapp.net/attachments/905259959158206514/1307714268594049074/wallhaven-x6dp1z_800x2001.png?ex=673b4f51&is=6739fdd1&hm=167626c7d0dd20b9c690cf19f7a380f0ec016de12a377b7850eb379af2d885e7&=&format=webp&quality=lossless&width=719&height=179" alt="Satoru Gojo"/>
 </div>
 <br>
 <div align="center">
