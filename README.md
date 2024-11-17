@@ -1,7 +1,9 @@
 ---
 <div align="center">
-<h3 src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" width="65px" height="65px">Hi there! I'm Mizzu ジ</h3> 
+    <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" width="65px" height="65px" alt="Gif de saludo" style="vertical-align: middle;">
+    <h3 style="display: inline; vertical-align: middle;">Hi there! I'm Mizzu ジ</h3>
 </div>
+
 
 
 
