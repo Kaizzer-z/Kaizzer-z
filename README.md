@@ -1,9 +1,11 @@
 ---
 
-<h3 align="center">
+<div align="center">
+  <h3>
   Hi there! I'm Mizzu ジ
   <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" width="65px" height="65px" alt="Gif de saludo">
-</h3>
+  </h3>
+</div>
 
 <div align="center">
   
