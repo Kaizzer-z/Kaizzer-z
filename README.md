@@ -1,6 +1,10 @@
 ---
+<div align="center">
+<h3 >Hi there! I'm Mizzu ジ</h3>
+<img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif">
+</div>
 
-<h3 align="center">Hi there! I'm Mizzu ジ</h3>
+
 
 
 <div align="center">
