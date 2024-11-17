@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img align="center" width="600px" height="250px" src="https://i.imgur.com/n9DlGQw.gif"/>
+  <img align="center" width="800px" height="250px" src="https://i.imgur.com/n9DlGQw.gif"/>
 <h3 align="center">Hi there! I'm Mizzu ジ</h3>
 </div>
 
