@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://i.imgur.com/ZIJ0hWk.gif"/>
+  <img align="center" src="https://media.discordapp.net/attachments/905259959158206514/1307714268594049074/wallhaven-x6dp1z_800x2001.png?ex=673b4f51&is=6739fdd1&hm=167626c7d0dd20b9c690cf19f7a380f0ec016de12a377b7850eb379af2d885e7&=&format=webp&quality=lossless&width=719&height=179"/>
 <h3 align="center">Hi there! I'm Mizzu ジ</h3>
 </div>
 
