@@ -1,13 +1,14 @@
 ---
-<div align="">
-    <div align="left">
-<h3">Hi there! I'm Mizzu ジ</h3>
-    </div>
-     <div align="right">
- <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" width="65px" height="65px" alt="Gif de saludo"">
-    </div>
-    
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <h3>Hi there! I'm Mizzu ジ</h3>
+    </td>
+    <td align="right">
+      <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" width="65px" height="65px" alt="Gif de saludo">
+    </td>
+  </tr>
+</table>
 
 
 
