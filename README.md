@@ -2,7 +2,7 @@
 <div align="center">
   <h3>
   Hi there! I'm Mizzu
-  <img src="https://media.tenor.com/Bve0fgKwVnYAAAAi/alverda-verdansa.gif" alt="Gif de saludo" height="50px" width="55px">
+  <img src="https://media.tenor.com/Bve0fgKwVnYAAAAi/alverda-verdansa.gif" alt="Gif de saludo" height="55px" width="55px">
   </h3>
 </div>
 
