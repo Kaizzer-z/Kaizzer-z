@@ -32,10 +32,6 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,python,js,tailwind)](https://skillicons.dev)
 </div>
 
-
- [![Next][Next.js]][Next-url]
- 
-
 🌱 Currently Learning ⤸
 ---
 <div>
