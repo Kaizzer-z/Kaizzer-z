@@ -9,24 +9,23 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&size=17&pause=400&color=8283FF&center=true&vCenter=true&random=false&width=435&lines=%E2%98%84%EF%B8%8F+Transforming+ideas+into+reality...;%E2%98%95+Code%2C+coffee+and+passion...;%F0%9F%8E%A7+Coding+to+the+rhythm+of+music...;%F0%9F%8E%B5+Where+notes+become+bits...;%F0%9F%8E%B6+And+melodies+become+algorithms...)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
-👋 Welcome to my GitHub!
----
+# 👋 Welcome to my GitHub!
+
 I'm a **passionate developer** who loves crafting beautiful and functional web experiences. ✨ My journey in tech is fueled by curiosity, creativity, and the joy of solving problems through code. 🚀  
 
 
-🌟 A Little About Me ⤸
----
+# 🌟 A Little About Me ⤸
+
 - ☄️ **Problem-solver**: I thrive on tackling challenges and turning ideas into reality.
 - 🎯 **Detail-oriented**: My goal is to deliver code that not only works but also looks and feels amazing.  
 - 💡 **Always evolving**: I'm passionate about continuous learning and staying up-to-date with the latest trends in tech to build better and smarter solutions. 
 
-💻 Technologies I Work With ⤸
----
+# 💻 Technologies I Work With ⤸
+
 <div>
   
  ![My Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,16 +34,15 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
  ![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  ![Mi Skills](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![My Skills](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
 </div>
 
-🌱 Currently Learning ⤸
----
-<div>
+# 🌱 Currently Learning ⤸
 
-* ![Mi Skills](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-* ![Mi Skills](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-* ![Mi Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div>
+  
+- ![Mi Skills](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Mi Skills](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![Mi Skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </div>
 
 ---
