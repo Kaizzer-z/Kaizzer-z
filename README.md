@@ -29,8 +29,8 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 ---
 <div>
   
- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,python,js,tailwind)](https://skillicons.dev)
- [![My Skills](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,python,js,tailwind)
+ [![My Skills](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=dark)
 </div>
 
 🌱 Currently Learning ⤸
