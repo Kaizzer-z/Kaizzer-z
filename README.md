@@ -12,8 +12,7 @@
 </div>
 
 
-
-👋 Welcome to my GitHub!
+<h2> 👋 Welcome to my GitHub! <h2/>
 
 ---
 <br>
