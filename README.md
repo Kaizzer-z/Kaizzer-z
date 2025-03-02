@@ -56,8 +56,6 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 </details>
 </div>
 
-<div align="center">
-</div>
 <br>
 
 ---
