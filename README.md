@@ -62,3 +62,6 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizzer-z&left_color=indigo&right_color=slategray"  />
 </div>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
