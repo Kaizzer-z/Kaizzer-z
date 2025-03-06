@@ -1,8 +1,5 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
----
-
-
 <div align="center">
   <h3>
   Hi there! I'm Kaizzer
