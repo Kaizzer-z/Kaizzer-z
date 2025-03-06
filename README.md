@@ -1,4 +1,9 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+<div align="center">
+  
+ ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+</div>
+
+
 
 <div align="center">
   <h3>
